@@ -1,0 +1,6 @@
+requests
+gspread
+Flask==0.10
+six
+oauth2client
+google-python-cloud-debugger
