@@ -19,7 +19,7 @@ def catch_all(path):
 
 
     # The ID and range of the spreadsheet.
-    MASTER_SPREADSHEET_ID = '1hZdlTLxk77CRkn9cpaMrpPTs-oocEidf7bYeikMoBmQ'    
+    MASTER_SPREADSHEET_ID = '1ltCHpWBXQfCT1WvzczhJc6LQ760DirG14knqvboYf7M'    
 
     # define credentials needed to read the trix
     scope = ['https://www.googleapis.com/auth/spreadsheets.readonly']
